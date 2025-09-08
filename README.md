@@ -1,1 +1,1 @@
-# application-1
+# application-1 Updating the story of the Developer B
